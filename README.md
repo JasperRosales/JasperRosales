@@ -69,10 +69,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 </div>
 
 
-<div align="center">
-    
-  ![snake gif](https://github.com/JasperRosales/JasperRosales/blob/output/github-snake-dark.svg)
-</div>
+
 
 
 
