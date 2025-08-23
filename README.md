@@ -11,7 +11,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=JasperRosales&theme=dracula&hide_border=false)
 
 </div>
