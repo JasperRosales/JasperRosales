@@ -6,7 +6,6 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jasper.rosales.124533) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jasper-rosales-056001368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasperbrosales32@gmail.com) 
 
-</br>
 
 ##  GitHub Stats:
 
@@ -22,8 +21,6 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   ![snake gif](https://github.com/JasperRosales/JasperRosales/blob/output/github-snake-dark.svg)
 </div>
 
-
-</br>
 
 
 ## Tech Stacks
