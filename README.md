@@ -16,6 +16,9 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 
 </div>
 
+![Badge1](badges/c-essentials-1/jpg)
+
+
 <div align="center">
     
   ![snake gif](https://github.com/JasperRosales/JasperRosales/blob/output/github-snake-dark.svg)
