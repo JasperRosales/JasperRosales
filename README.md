@@ -23,6 +23,8 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity" width="100"/>
   <img src="badges/introduction-to-greenhouse-gas-accounting-for-it.png" alt="introduction-to-greenhouse-gas-accounting-for-it" width="100"/>
   <img src="badges/introduction-to-modern-ai.png" alt="introduction-to-modern-ai" width="100"/>
+  <img src="badges/python-essentials-1.1.png" alt="python-essentials-1.1" width="100"/>
+
 </p>
 
 
