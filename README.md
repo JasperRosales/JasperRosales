@@ -16,7 +16,13 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 
 </div>
 
-![Badge1](badges/c-essentials-1/jpg)
+<p>
+  <img src="badges/c-essentials-1.jpg" alt="c-essentials-1" width="100"/>
+  <img src="badges/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity" width="100"/>
+  <img src="badges/introduction-to-greenhouse-gas-accounting-for-it.png" alt="introduction-to-greenhouse-gas-accounting-for-it" width="100"/>
+  <img src="badges/introduction-to-modern-ai.png" alt="introduction-to-modern-ai" width="100"/>
+</p>
+
 
 
 <div align="center">
