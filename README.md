@@ -9,12 +9,14 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 
 ##  GitHub Stats:
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=JasperRosales&theme=dark&hide_border=false" />
 
 </div>
+
+
 
 
 <p>
