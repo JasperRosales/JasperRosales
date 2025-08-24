@@ -9,12 +9,13 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 
 ##  GitHub Stats:
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-![](https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JasperRosales&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=JasperRosales&theme=dark&hide_border=false" />
 
 </div>
+
 
 <p>
   <img src="badges/c-essentials-1.jpg" alt="c-essentials-1" width="100"/>
