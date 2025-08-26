@@ -128,5 +128,3 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=JasperRosales&icon=0&color=0)](https://visitcount.itsvg.in)
-
