@@ -28,6 +28,9 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/javascript-essentials-1.png" alt="javascript-essentials-1" width="100"/>
   <img src="badges/ai-at-work-analyze-customer-reviews.png" alt="ai-at-work-analyze-customer-reviews" width="100"/>
   <img src="badges/network-addressing-and-basic-troubleshooting.png" alt="network-addressing-and-basic-troubleshooting" width="100"/>
+  <img src="badges/html-essentials.png" alt="html-essentials" width="100"/>
+
+  
 
 
 </p>
