@@ -26,6 +26,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/python-essentials-1.1.png" alt="python-essentials-1.1" width="100"/>
   <img src="badges/introduction-to-iot.png" alt="introduction-to-iot" width="100"/>
   <img src="badges/javascript-essentials-1.png" alt="javascript-essentials-1" width="100"/>
+  <img src="badges/javascript-essentials-2.png" alt="javascript-essentials-2" width="100"/>
   <img src="badges/ai-at-work-analyze-customer-reviews.png" alt="ai-at-work-analyze-customer-reviews" width="100"/>
   <img src="badges/network-addressing-and-basic-troubleshooting.png" alt="network-addressing-and-basic-troubleshooting" width="100"/>
   <img src="badges/networking-basics.png" alt="networking-basics" width="100"/>
