@@ -22,18 +22,18 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/c-essentials-1.jpg" alt="c-essentials-1" width="100"/>
   <img src="badges/c-essentials-2.png" alt="c-essentials-2" width="100"/>
   <img src="badges/c-advanced.png" alt="c-advanced" width="100"/>
+  <img src="badges/python-essentials-1.1.png" alt="python-essentials-1.1" width="100"/>
+  <img src="badges/python-essentials-2.png" alt="python-essentials-2" width="100"/>
+  <img src="badges/javascript-essentials-1.png" alt="javascript-essentials-1" width="100"/>
+  <img src="badges/javascript-essentials-2.png" alt="javascript-essentials-2" width="100"/>
+  <img src="badges/html-essentials.png" alt="html-essentials" width="100"/>
   <img src="badges/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity" width="100"/>
   <img src="badges/introduction-to-greenhouse-gas-accounting-for-it.png" alt="introduction-to-greenhouse-gas-accounting-for-it" width="100"/>
   <img src="badges/introduction-to-modern-ai.png" alt="introduction-to-modern-ai" width="100"/>
-  <img src="badges/python-essentials-1.1.png" alt="python-essentials-1.1" width="100"/>
-  <img src="badges/python-essentials-2.png" alt="python-essentials-2" width="100"/>
   <img src="badges/introduction-to-iot.png" alt="introduction-to-iot" width="100"/>
-  <img src="badges/javascript-essentials-1.png" alt="javascript-essentials-1" width="100"/>
-  <img src="badges/javascript-essentials-2.png" alt="javascript-essentials-2" width="100"/>
   <img src="badges/ai-at-work-analyze-customer-reviews.png" alt="ai-at-work-analyze-customer-reviews" width="100"/>
   <img src="badges/network-addressing-and-basic-troubleshooting.png" alt="network-addressing-and-basic-troubleshooting" width="100"/>
   <img src="badges/networking-basics.png" alt="networking-basics" width="100"/>
-  <img src="badges/html-essentials.png" alt="html-essentials" width="100"/>
 
   
 
