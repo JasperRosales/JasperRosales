@@ -30,7 +30,9 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/css-essentials.png" alt="css-essentials" width="100"/>
   <img src="badges/introduction-to-cybersecurity.png" alt="introduction-to-cybersecurity" width="100"/>
   <img src="badges/introduction-to-greenhouse-gas-accounting-for-it.png" alt="introduction-to-greenhouse-gas-accounting-for-it" width="100"/>
-  <img src="badges/introduction-to-modern-ai.png" alt="introduction-to-modern-ai" width="100"/>
+  <img src="badges/introduction-to-modern-ai.png" alt="introduction-to-modern-ai" width="100"/  
+  <img src="badges/introduction-to-data-science.png" alt="introduction-to-data-science" width="100"/>
+  <img src="badges/data-analytics-essentials.png" alt="data-analytics-essentials" width="100"/>
   <img src="badges/introduction-to-iot.png" alt="introduction-to-iot" width="100"/>
   <img src="badges/ai-at-work-analyze-customer-reviews.png" alt="ai-at-work-analyze-customer-reviews" width="100"/>
   <img src="badges/network-addressing-and-basic-troubleshooting.png" alt="network-addressing-and-basic-troubleshooting" width="100"/>
