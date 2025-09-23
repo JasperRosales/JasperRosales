@@ -4,7 +4,9 @@
 
 An **Aspiring Software Engineer** driven to transform complex problems into bold, innovative solutions. Passionate about **software development, system design, and AI**. I strive not just to learn, but to excel, create, and leave a lasting mark. I also do weapon arts, collecting certificates, cooking, volunteer work, and learning more things as a hobby. If you want to collab, kindly contact me!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jasper.rosales.124533) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jasper-rosales-056001368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasperbrosales32@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jasper.rosales.124533/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jasper-rosales-056001368) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasperbrosales32@gmail.com) 
 
 
 ##  GitHub Stats:
