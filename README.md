@@ -122,8 +122,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-3C5067?style=for-the-badge&logo=keycloak&logoColor=white)
+
 
 
 
@@ -138,7 +137,8 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-3C5067?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ### 🎨 UI / Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
