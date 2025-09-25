@@ -44,15 +44,11 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/english-for-it-1.png" alt="english-for-it-1" width="100"/>
   <img src="badges/english-for-it-2.png" alt="english-for-it-2" width="100"/>
   <img src="badges/creating-compelling-reports.png" alt="creating-compelling-reports" width="100"/>
-
-
-
-  
-
-
 </p>
 
-
+<p>
+  <img src="badges/oracle-java-foundations.png" alt="oracle-java-foundations" width="100"/>
+</p>
 
 <div align="center">
     
