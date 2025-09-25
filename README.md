@@ -39,6 +39,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/ai-at-work-analyze-customer-reviews.png" alt="ai-at-work-analyze-customer-reviews" width="100"/>
   <img src="badges/network-addressing-and-basic-troubleshooting.png" alt="network-addressing-and-basic-troubleshooting" width="100"/>
   <img src="badges/networking-basics.png" alt="networking-basics" width="100"/>
+  <img src="badges/operating-systems-basics.png" alt="operating-systems-basics" width="100"/>
   <img src="badges/endpoint-security.png" alt="endpoint-security" width="100"/>
   <img src="badges/english-for-it-1.png" alt="english-for-it-1" width="100"/>
   <img src="badges/english-for-it-2.png" alt="english-for-it-2" width="100"/>
