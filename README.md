@@ -47,7 +47,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 </p>
 
 <p>
-  <img src="badges/oracle-java-foundations.png" alt="oracle-java-foundations" width="100"/>
+  <img src="badges/oracle-java-foundations.jpeg" alt="oracle-java-foundations" width="100"/>
 </p>
 
 <div align="center">
