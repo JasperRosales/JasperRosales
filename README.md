@@ -12,7 +12,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=JasperRosales&theme=dark&hide_border=false" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="365"/>
 
 
 </p>
