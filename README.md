@@ -49,6 +49,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img src="badges/oracle-java-foundations.jpeg" alt="oracle-java-foundations" width="350"/>
   <img src="badges/sql.png" alt="5 star sql hacker rank badge" width="200"/>
+  <img src="badges/java.png" alt="5 star java hacker rank badge" width="195"/>
 </div>
 
 <div align="center">
