@@ -46,9 +46,10 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
   <img src="badges/creating-compelling-reports.png" alt="creating-compelling-reports" width="100"/>
 </p>
 
-<p>
-  <img src="badges/oracle-java-foundations.jpeg" alt="oracle-java-foundations" width="400"/>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="badges/oracle-java-foundations.jpeg" alt="oracle-java-foundations" width="350"/>
+  <img src="badges/sql.png" alt="5 star sql hacker rank badge" width="200"/>
+</div>
 
 <div align="center">
     
