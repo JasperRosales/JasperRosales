@@ -53,6 +53,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 </p>
 
 <div align="center">
+  
   ![snake gif](https://github.com/JasperRosales/JasperRosales/blob/output/github-snake-dark.svg)
 </div>
 
@@ -82,9 +83,6 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-
-
-
 
 
 
