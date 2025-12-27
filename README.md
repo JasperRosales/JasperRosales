@@ -49,11 +49,10 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 <p>
   <img src="badges/oracle-java-foundations.jpeg" alt="oracle-java-foundations" width="350"/>
   <img src="badges/sql.png" alt="5 star sql hacker rank badge" width="200"/>
-  <img src="badges/java.png" alt="5 star java hacker rank badge" width="195"/>
+  <img src="badges/java.png" alt="5 star java hacker rank badge" width="190"/>
 </p>
 
 <div align="center">
-    
   ![snake gif](https://github.com/JasperRosales/JasperRosales/blob/output/github-snake-dark.svg)
 </div>
 
