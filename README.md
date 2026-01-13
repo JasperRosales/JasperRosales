@@ -78,6 +78,9 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zap](https://img.shields.io/badge/Zap-000000?style=for-the-badge&logo=go&logoColor=white)
 ![GoMock](https://img.shields.io/badge/GoMock-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Wails](https://img.shields.io/badge/Wails-JavaScript-4A90E2?style=for-the-badge&logo=wails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 ### Other Tech Interests
