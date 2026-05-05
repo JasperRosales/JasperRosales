@@ -86,6 +86,7 @@ An **Aspiring Software Engineer** driven to transform complex problems into bold
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 Other Tech Interest 
+
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Smart_Contracts](https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=for-the-badge)
