@@ -18,20 +18,6 @@ Beyond code, I enjoy weapon arts, collecting certifications, cooking, volunteer 
 
 </div>
 
-## GitHub Stats
-
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JasperRosales&theme=dark&hide_border=false" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JasperRosales&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="365"/>
-</div>
-
-<br/>
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JasperRosales&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-
 ## Certificates
 
 <div align="left">
@@ -107,5 +93,4 @@ Beyond code, I enjoy weapon arts, collecting certifications, cooking, volunteer 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)
 
----
 
