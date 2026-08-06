@@ -32,14 +32,6 @@ Beyond code, I enjoy weapon arts, collecting certifications, cooking, volunteer 
 </div>
 
 
-## Featured Badges: SQL & Java
-
-<div align="left">
-  <img src="badges/sql.png" alt="HackerRank SQL 5 Star Badge" width="230" height="230"/>
-  <img src="badges/java.png" alt="HackerRank Java 5 Star Badge" width="230" height="230"/>
-  <img src="badges/oracle-java-foundations.jpeg" alt="Oracle Java Foundations Certificate" width="380"/>
-</div>
-
 ## Certificates
 
 <div align="left">
