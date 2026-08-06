@@ -109,12 +109,3 @@ Beyond code, I enjoy weapon arts, collecting certifications, cooking, volunteer 
 
 ---
 
-<div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</div>
-
-<br/>
-
-<div align="center">
-  ![snake gif](https://github.com/JasperRosales/JasperRosales/blob/output/github-snake-dark.svg)
-</div>
