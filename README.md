@@ -3,7 +3,7 @@
 <h3 align="left">Aspiring Software Engineer</h3>
 
 <p align="left">
-I am an aspiring software engineer driven to turn complex problems into bold, innovative solutions. I am passionate about <b>software development, system design, and AI</b> — with a current focus on <b>SQL</b> and <b>Java</b>. I aim not just to learn, but to excel, create, and leave a lasting mark.
+I am an aspiring software engineer driven to turn complex problems into bold, innovative solutions. I am passionate about <b>software development, system design, and AI</b> — with a current focus on <b>System Design</b> and <b>Software Applications</b>. I aim not just to learn, but to excel, create, and leave a lasting mark.
 </p>
 <p align="left">
 Beyond code, I enjoy weapon arts, collecting certifications, cooking, volunteer work, and always picking up something new. Looking to collaborate? Feel free to reach out!
